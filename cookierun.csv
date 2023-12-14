@@ -1,0 +1,106 @@
+Name,Type,Position,Rarity,HP,Attack,Defence
+GingerBrave,Charge,Front,Common,"2,700",240,960
+Muscle Cookie,Charge,Front,Common,2646,247,950
+Strawberry Cookie,Defense,Front,Common,2727,244,936
+Wizard Cookie,Magic,Middle,Common,1034,683,549
+Beet Cookie,Ranged,Rear,Common,1248,637,672
+Ninja Cookie,Ambush,Rear,Common,1188,630,615
+Angel Cookie,Healing,Rear,Common,1538,245,382
+Princess Cookie,Charge,Front,Rare,3648,350,1337
+Avocado Cookie,Defense,Front,Rare,3780,323,1398
+Knight Cookie,Defense,Front,Rare,3742,336,1357
+Blackberry Cookie,Magic,Middle,Rare,1544,946,844
+Devil Cookie,Magic,Middle,Rare,1441,952,776
+Adventurer Cookie,Ambush,Middle,Rare,1714,840,878
+Pancake Cookie,Ambush,Rear,Rare,1680,853,883
+Alchemist Cookie,Bomber,Middle,Rare,1630,874,887
+Cherry Cookie,Bomber,Rear,Rare,1646,832,923
+Gumball Cookie,Bomber,Rear,Rare,1672,870,869
+Carrot Cookie,Support,Middle,Rare,2016,343,571
+Onion Cookie,Support,Middle,Rare,2131,326,571
+Clover Cookie,Support,Rear,Rare,2068,328,568
+Custard Cookie III,Healing,Rear,Rare,2111,338,554
+Sonic Cookie,Ambush,Middle,Special ,2203,1035,1057
+Tails Cookie,Ambush,Middle,Special ,2225,1035,1087
+BTS Cookies,BTS,Rear,Special ,2219,416,595
+Snapdragon Cookie,Support,Rear,Special ,2219,458,654
+Dark Choco Cookie,Charge,Front,Epic,4299,375,1583
+Purple Yam Cookie,Charge,Front,Epic,4841,568,1675
+Werewolf Cookie,Charge,Front,Epic,5203,589,1855
+kumiho Cookie,Charge,Front,Epic,4148,396,1552
+Red Velvet Cookie,Charge,Front,Epic,5376,500,1713
+Raspberry Cookie,Charge,Front,Epic,4774,674,1659
+Mala Sauce Cookie,Charge,Front,Epic,5264,802,1899
+Tea Knight Cookie,Charge,Front,Epic,4604,807,1670
+Crunchy Chip Cookie,Charge,Front,Epic,4327,612,1549
+Madeleine Cookie,Defense,Front,Epic,5614,537,1669
+Milk Cookie,Defense,Front,Epic,5365,492,1754
+Strawberry Crepe Cookie,Defense,Front,Epic,4796,431,1644
+Moon Rabbut Cookie,Defense,Front,Epic,5185,444,1690
+Cocoa Cookie,Defense,Front,Epic,5131,341,1626
+Wildberry Cookie,Defense,Front,Epic,5598,637,1646
+Financier Cookie,Defense,Front,Epic,5638,540,1657
+Kouign-Amann Cookie,Defense,Front,Epic,4450,539,1607
+Licorice Cookie,Magic,Middle,Epic,1820,1072,964
+Snow Sugar Cookie,Magic,Middle,Epic,1784,1078,1001
+Espresso Cookie,Magic,Middle,Epic,1934,1118,1010
+Latte Cookie,Magic,Middle,Epic,2082,1179,1080
+Mango Cookie,Magic,Middle,Epic,1865,1141,995
+Squid Ink Cookie,Magic,Middle,Epic,1996,1194,997
+Pumpkin Pie Cookie,Magic,Middle,Epic,1269,1179,796
+Rye Cookie,Ranged,Rear,Epic,2175,990,1142
+Tiger Lily Cookie,Ranged,Rear,Epic,1345,980,992
+Pastry Cookie,Ranged,Rear,Epic,1729,1037,1045
+Twizzly Gummy Cookie,Ranged,Rear,Epic,1978,1077,1076
+Caramel Arrow Cookie,Ranged,Front,Epic,4186,1079,1403
+Chili Pepper Cookie,Ambush,Middle,Epic,2401,1069,1009
+Vampire Cookie,Ambush,Rear,Epic,1966,989,1049
+Black Raisin Cookie,Ambush,Middle,Epic,2055,1057,1158
+Sorbet Shark Cookie,Ambush,Middle,Epic,2580,1028,1193
+Cherry Blossom Cookie,Ambush,Rear,Epic,2392,951,116
+Royal Margarine Cookie,Ambush,Middle,Epic,3862,678,1279
+Posion Mushroom Cookie,Bomber,Middle,Epic,2082,1072,1050
+Affogato Cookie,Bomber,Middle,Epic,2141,1080,1080
+Captain Caviar Cookie,Bomber,Middle,Epic,2084,1090,1055
+Pinecone Cookie,Bomber,Front,Epic,2325,981,1145
+Prune Juice Cookie,Bomber,Middle,Epic,2322,989,1171
+Black Lemonade Cookie,Bomber,Middle,Epic,2508,978,1211
+Mint Choco Cookie,Support,Rear,Epic,2892,390,773
+Pomegranate Cookie,Support,Middle,Epic,2899,390,773
+Almond Cookie,Support,Rear,Epic,2737,408,705
+Cream Puff Cookie,Support,Rear,Epic,3271,509,760
+Fig Cookie,Support,Middle,Epic,2871,392,621
+Lilac Cookie,Support,Middle,Epic,1921,461,1025
+Parfait Cookie,Support,Rear,Epic,2855,473,793
+Cotton Cookie,Support,Rear,Epic,2816,473,766
+Eclair Cookie,Support,Middle,Epic,2396,955,683
+Candy Diver Cookie,Support,Rear,Epic,2291,390,614
+Prophet Cookie,Support,Rear,Epic,2715,625,712
+Frilled Jellyfish Cookie,Support,Middle,Epic,3092,443,817
+Herb Cookie,Healing,Rear,Epic,2401,398,618
+Sparking Cookie,Healing,Rear,Epic,2980,402,736
+Cream Unicorn Cookie,Healing,Rear,Epic,2894,419,733
+Tarte Tatin Cookie,Ranged,Rear,Epic,3281,1083,1237
+Blueberry Pie Cookie,Magic,Middle,Epic,2345,1041,1281
+Macaron Cookie,Magic,Middle,Epic,1965,1072,993
+Scharwälder,Charge,Rear,Epic,4518,819,1636
+Milly Way Cookie,Charge,Front,Epic,5056,497,1486
+Space Doughtnut,Charge,Front,Epic,4301,569,1560
+Peppermint Cookie,Support,Rear,Epic,2810,466,778
+Carol Cookie,Healing,Rear,Epic,2957,422,833
+Rockstar Cookie,Healing,Middle,Epic,2949,460,750
+Clotted Cream Cookie,Magic,Middle,Super Epic,2393,1286,1124
+Oyster Cookie,Support,Rear,Super Epic,2792,1051,855
+Sherbet Cookie,Ranged,Middle,Super Epic,2662,1197,1504
+Stardust Cookie,Ambush,Middle,Super Epic,2446,1285,1245
+Shining Glitter Cookie,Magic,Middle,Super Epic,2892,1184,1233
+Capsaicin Cookie,Charge,Front,Super Epic,5208,886,1856
+Crimson Coral Cookie,Defense,Front,Super Epic,6042,691,2108
+Black Pearl Cookie,Ambush,Middle,Legendary,2468,1478,1020
+Frost Queen Cookie,Magic,Middle,Legendary,2391,1418,1187
+Sea Fairy Cookie,Bomber,Middle,Legendary,2534,1418,1187
+Moonlight Cookie,Magic,Middle,Legendary,2268,1467,980
+Pure Vanilla Cookie,Healing,Rear,Ancient,3410,527,960
+Dark Cacao Cookie ,Charge,Front,Ancient,5624,955,1709
+Hollyberry Cookie,Defense,Front,Ancient,6349,537,2692
+Golden Cheese Cookie,Ranged,Middle,Ancient,2338,1478,1186
